@@ -1,5 +1,3 @@
-# Develop By : AADHITHYA M
-# Req No : 212222100001
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
 ## AIM:
